@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7cd60e8-4ec8-449e-bb29-cdb5a03c0ece" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_report.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3proga.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enums/Direction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Assessable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objects/AbstractStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objects/Corridor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objects/DebrisMountain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objects/DenfortsBackpack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objects/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objects/Paper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3_report.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,11 +43,12 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/lab2programming&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/lab3proga_v2&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/user/IdeaProjects/lab3proga/src/Main.java&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -92,7 +75,10 @@
       <workItem from="1703013463935" duration="6033000" />
       <workItem from="1703863709537" duration="2577000" />
       <workItem from="1704295006044" duration="6300000" />
-      <workItem from="1704361610753" duration="975000" />
+      <workItem from="1704361610753" duration="1749000" />
+      <workItem from="1704728735601" duration="154000" />
+      <workItem from="1704730806408" duration="1261000" />
+      <workItem from="1704743588130" duration="136000" />
     </task>
     <servers />
   </component>
